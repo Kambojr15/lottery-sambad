@@ -102,4 +102,4 @@ Reading a lottery result chart is a five-minute skill that protects you from the
 
 ## Check Results
 
-For the latest published results across Nagaland, Kerala, Sikkim, Punjab and Maharashtra, visit Lottery Sambad. To check your own ticket number against the latest results, use the Ticket Checker.
+For the latest published results across Nagaland, Kerala, Sikkim, Punjab and Maharashtra, visit [Lottery Sambad](https://lottery.hyperexc.com). To check your own ticket number against the latest results, use the [Ticket Checker](https://lottery.hyperexc.com/ticket-checker/).
